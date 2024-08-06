@@ -1,14 +1,7 @@
 {
-  "message": "Hello, World!",
   "timestamp": "2024-08-05T12:00:00Z",
-  "data": [
-    {
-      "id": 1,
-      "name": "Item 1"
-    },
-    {
-      "id": 2,
-      "name": "Item 2"
-    }
-  ]
+  "message": "Message1",
+  "submessage": "SubMessage1",
+  "face_index": 0,
+  "notification_sound_index": 0
 }
